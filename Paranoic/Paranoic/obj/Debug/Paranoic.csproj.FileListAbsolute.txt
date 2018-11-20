@@ -1,0 +1,7 @@
+E:\Reps\Paranoic\Paranoic\bin\Debug\Paranoic.exe.config
+E:\Reps\Paranoic\Paranoic\bin\Debug\Paranoic.exe
+E:\Reps\Paranoic\Paranoic\bin\Debug\Paranoic.pdb
+E:\Reps\Paranoic\Paranoic\obj\Debug\Paranoic.csprojAssemblyReference.cache
+E:\Reps\Paranoic\Paranoic\obj\Debug\Paranoic.csproj.CoreCompileInputs.cache
+E:\Reps\Paranoic\Paranoic\obj\Debug\Paranoic.exe
+E:\Reps\Paranoic\Paranoic\obj\Debug\Paranoic.pdb

@@ -1,0 +1,7 @@
+E:\Reps\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+E:\Reps\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Reps\ATM\ATM\bin\Debug\ATM.exe.config
+E:\Reps\ATM\ATM\bin\Debug\ATM.exe
+E:\Reps\ATM\ATM\bin\Debug\ATM.pdb
+E:\Reps\ATM\ATM\obj\Debug\ATM.exe
+E:\Reps\ATM\ATM\obj\Debug\ATM.pdb

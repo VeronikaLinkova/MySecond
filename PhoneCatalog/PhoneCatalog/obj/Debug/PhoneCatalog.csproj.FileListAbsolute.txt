@@ -1,0 +1,14 @@
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.exe.config
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.exe
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.pdb
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.csprojAssemblyReference.cache
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.csproj.CoreCompileInputs.cache
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.exe
+D:\automation\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.pdb
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.exe.config
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.exe
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\bin\Debug\PhoneCatalog.pdb
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.csprojAssemblyReference.cache
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.exe
+C:\Users\Nikusik\Downloads\PhoneCatalog\PhoneCatalog\PhoneCatalog\obj\Debug\PhoneCatalog.pdb

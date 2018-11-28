@@ -1,7 +1,0 @@
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\bin\Debug\Izdat.exe.config
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\bin\Debug\Izdat.exe
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\bin\Debug\Izdat.pdb
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\obj\Debug\Izdat.csprojAssemblyReference.cache
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\obj\Debug\Izdat.csproj.CoreCompileInputs.cache
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\obj\Debug\Izdat.exe
-D:\automation\task izdatelstvo\Izdat\Izdat\Izdat\obj\Debug\Izdat.pdb

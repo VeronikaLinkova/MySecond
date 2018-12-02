@@ -1,7 +1,0 @@
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\bin\Debug\CardValidator.exe.config
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\bin\Debug\CardValidator.exe
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\bin\Debug\CardValidator.pdb
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\obj\Debug\CardValidator.csprojAssemblyReference.cache
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\obj\Debug\CardValidator.csproj.CoreCompileInputs.cache
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\obj\Debug\CardValidator.exe
-C:\Users\Nikusik\source\repos\CardValidator\CardValidator\obj\Debug\CardValidator.pdb

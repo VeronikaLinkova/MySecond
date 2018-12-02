@@ -1,7 +1,0 @@
-E:\Reps\Poker\Poker\bin\Debug\Poker.exe.config
-E:\Reps\Poker\Poker\bin\Debug\Poker.exe
-E:\Reps\Poker\Poker\bin\Debug\Poker.pdb
-E:\Reps\Poker\Poker\obj\Debug\Poker.csprojAssemblyReference.cache
-E:\Reps\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
-E:\Reps\Poker\Poker\obj\Debug\Poker.exe
-E:\Reps\Poker\Poker\obj\Debug\Poker.pdb

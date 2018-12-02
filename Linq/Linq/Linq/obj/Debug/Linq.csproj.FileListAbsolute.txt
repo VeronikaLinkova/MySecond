@@ -1,0 +1,7 @@
+D:\automation\LINQ\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+D:\automation\LINQ\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\automation\LINQ\Linq\Linq\bin\Debug\Linq.exe.config
+D:\automation\LINQ\Linq\Linq\bin\Debug\Linq.exe
+D:\automation\LINQ\Linq\Linq\bin\Debug\Linq.pdb
+D:\automation\LINQ\Linq\Linq\obj\Debug\Linq.exe
+D:\automation\LINQ\Linq\Linq\obj\Debug\Linq.pdb

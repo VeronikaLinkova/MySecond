@@ -1,50 +1,102 @@
+
 <!DOCTYPE html>
 <html>
-	<head>
-		
+	<head> 
+      <script> 
+         //function that display value 
+         function dis(val) 
+         {
+            
+			document.getElementById("result").value= document.getElementById("display").value+val 
+			document.getElementById("display").value= ''			
+         } 
+		 
+		 function equal()
+		 {
+		 
+			var res = document.getElementById("result").value + document.getElementById("display").value	
+			document.getElementById("result").value = res			
+			document.getElementById("display").value = eval(res)			
+		 }
+		 
+		 function decimal() 
+		 {
+			document.getElementById("display").value = document.getElementById("display").value + '.'
+		 }
+		 
+		 function clr() 
+         {              
+			document.getElementById("display").value= ''
+			document.getElementById("result").value= ''			
+         }
+		 
+		 function per() 
+         {              
+			var f = document.getElementById("result").value.length			
+			var first = Number(document.getElementById("result").value.substr(0,f-1))
+			var second = Number(document.getElementById("display").value)			
+			var pr = String(first*second/100)			
+			document.getElementById("display").value = pr
+			//document.getElementById("display").value = eval(document.getElementById("result").value)					
+         }
+		 
+		 function plumin() 
+         {              
+			var mul = Number(document.getElementById("display").value)*(-1)		
+			document.getElementById("display").value = String(mul)			
+         }
+
+		</script> 
 	</head>
-	<body>	
+	<body>		
 	<h1>Calculator</h1>
-	<form name="calculator">
-   <table>
-      <tr>
-         <td colspan="5">
+	<form name="calculator">	
+    <table>   
+		<tr>
+         <td colspan="5">		 
+            <input type="text" name="result" id="result" disabled>
+         </td>
+		</tr>	
+	  <tr>
+         <td colspan="5">		 
             <input type="text" name="display" id="display" disabled>
          </td>
       </tr>
-	  <tr>
+	  
 			<td></td> 
 			<td></td> 
 			<td></td> 	
 			<td></td>			
-			<td><input type="button" id="clear" name="clear" value="C" onclick="calculator.display.value = ''"></td> 
+			<td><input type="button" id="clear" name="clear" value="C" onclick="clr()"></td> 
       </tr>
 	   <tr>
             <td><input type="button" name="seven" value="7" onclick="calculator.display.value += '7'"></td>
             <td><input type="button" name="eight" value="8" onclick="calculator.display.value += '8'"></td>
             <td><input type="button" name="nine" value="9" onclick="calculator.display.value += '9'"></td>
-			<td><input type="button" class="operator" name="plus" value="+" onclick="calculator.display.value += '+'"></td>
-            <td><input type="button" class="operator" name="times" value="x" onclick="calculator.display.value += '*'"></td>
+			<td><input type="button" class="operator" name="plus" value="+" onclick="dis('+')"></td>
+            <td><input type="button" class="operator" name="times" value="x" onclick="dis('*')"></td>
      </tr>
 	  <tr>
             <td><input type="button" name="four" value="4" onclick="calculator.display.value += '4'"></td>
             <td><input type="button" name="five" value="5" onclick="calculator.display.value += '5'"></td>
             <td><input type="button" name="six" value="6" onclick="calculator.display.value += '6'"></td>
-            <td><input type="button" class="operator" name="minus" value="-" onclick="calculator.display.value += '-'"></td>
-			<td><input type="button" class="operator" name="div" value="/" onclick="calculator.display.value += '/'"></td>
+            <td><input type="button" class="operator" name="minus" value="-" onclick="dis('-')"></td>
+			<td><input type="button" class="operator" name="div" value="/" onclick="dis('/')"></td>
      </tr>
       <tr>
             <td><input type="button" name="one" value="1" onclick="calculator.display.value += '1'"></td>
             <td><input type="button" name="two" value="2" onclick="calculator.display.value += '2'"></td>
             <td><input type="button" name="three" value="3" onclick="calculator.display.value += '3'"></td>
+			<td><input type="button" class="operator" name="plusminus" value="+-" onclick="plumin()"></td>
 			
             
      </tr>   
     
      <tr>           
             <td><input type="button" name="zero" value="0" onclick="calculator.display.value += '0'"></td>
-			<td><input type="button" name="point" value="." onclick="calculator.display.value += '.'"></td>
-            <td><input type="button" name="doit" value="=" onclick="calculator.display.value = eval(calculator.display.value)"></td>
+			<td><input type="button" name="point" value="." onclick="decimal()"></td>
+			<td><input type="button" class="operator" name="percent" value="%" onclick="per()"></td>
+            <td><input type="button" name="doit" value="=" onclick="equal()"></td>
 			
       
       </tr>
@@ -120,6 +172,25 @@ input:active {
   background-color: #bcbd95;
   box-shadow: 0 4px rgba(0,0,0,0.2);
 }
+
+#result {
+  width: 400px;
+  max-width: 400px;
+  font-size: 26px;
+  text-align: right;
+  background-color: #FFE4E1;
+  float: center;
+}
+
+#result:active {
+  top: 5px;
+  width: 400px;
+  font-size: 26px;
+  text-align: right;
+  background-color: #bcbd95;
+  box-shadow: 0 4px rgba(0,0,0,0.2);
+}
+
 
 .operator {
   background-color: #cee9ea;

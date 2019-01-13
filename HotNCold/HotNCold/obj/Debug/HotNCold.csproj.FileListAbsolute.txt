@@ -1,7 +1,0 @@
-G:\git\MySecond\HotNCold\HotNCold\bin\Debug\HotNCold.exe.config
-G:\git\MySecond\HotNCold\HotNCold\bin\Debug\HotNCold.exe
-G:\git\MySecond\HotNCold\HotNCold\bin\Debug\HotNCold.pdb
-G:\git\MySecond\HotNCold\HotNCold\obj\Debug\HotNCold.csprojResolveAssemblyReference.cache
-G:\git\MySecond\HotNCold\HotNCold\obj\Debug\HotNCold.csproj.CoreCompileInputs.cache
-G:\git\MySecond\HotNCold\HotNCold\obj\Debug\HotNCold.exe
-G:\git\MySecond\HotNCold\HotNCold\obj\Debug\HotNCold.pdb
